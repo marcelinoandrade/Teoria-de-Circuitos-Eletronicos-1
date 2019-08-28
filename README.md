@@ -18,3 +18,11 @@
     <li> 14: Sinusoidal Steady - State Analysis</li>
     <li> 15: Exercise Class 5</li>
 </ul>
+
+<b> Bibliografia </b>
+
+
+<ol type="1">
+<li>Introduction to Electric Circuits 9th Edition by James A. Svoboda, Richard C. Dorf</li>
+<li>Fundamentals of Electric Circuits (Alexander and Sadiku), 4th Edition</li>
+</ol>
