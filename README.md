@@ -4,11 +4,16 @@
 <ul>
     <li> 01:  <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/01/Aula1.pdf" 
               >Lei de Kirchhoff</a></li>
-    <li> 02: Methods of Analysis of Resistive Circuits (Node Voltage)</li>
-    <li> 03: Methods of Analysis of Resistive Circuits (Mesh Current)</li>
-    <li> 04: Exercise Class 1</li>
-    <li> 05: Circuit Theorems</li>
-    <li> 06: The Operational Amplifier	</li>
+    <li> 02:  <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/02/Aula2.pdf" 
+              >Methods of Analysis of Resistive Circuits (Node Voltage)</a></li>
+    <li> 03:  <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/03/Aula3.pdf" 
+              >Methods of Analysis of Resistive Circuits (Mesh Current)</a></li>
+    <li> 04:  <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/04/Aula4.pdf" 
+              >Exercise Class 1</a></li>
+    <li> 05:  <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/05/Aula5.pdf" 
+              >Circuit Theorems</a></li>
+    <li> 06:  <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/06/Aula6.pdf" 
+              >The Operational Amplifier</a></li>       
     <li> 07: Exercise Class 2</li>
     <li> 08: Energy Storage Elements</li>
     <li> 09: Exercise Class 3</li>
