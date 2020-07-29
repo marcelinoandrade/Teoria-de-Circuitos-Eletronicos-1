@@ -13,8 +13,9 @@
     <li> 05:  <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/05/Aula5.pdf" 
               >Circuit Theorems</a></li>
     <li> 06:  <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/06/Aula6.pdf" 
-              >The Operational Amplifier</a></li>       
-    <li> 07: Exercise Class 2</li>
+              >The Operational Amplifier</a></li>   
+    <li> 07:  <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/07/Aula7.pdf" 
+              >Exercise Class 2</a></li>       
     <li> 08: Energy Storage Elements</li>
     <li> 09: Exercise Class 3</li>
     <li> 10: The Complete Response of RL and RC Circuits</li>
