@@ -3,7 +3,7 @@
 <b> Tópicos </b>
 <ul>
     <li> 01:  <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/01/Aula1.pdf" 
-              >Lei de Kirchhoff </a> >>
+              ><b>Lei de Kirchhoff</b></a> >>
               <a href="https://www.youtube.com/watch?v=8DDf-CN44PY" 
               > Video 1/3 </a> >>
               <a href="https://www.youtube.com/watch?v=-wXm2PdQOTw" 
