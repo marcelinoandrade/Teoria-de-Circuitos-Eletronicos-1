@@ -3,9 +3,14 @@
 <b> Tópicos </b>
 <ul>
     <li> 01:  <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/01/Aula1.pdf" 
-              >Lei de Kirchhoff</a>
+              >Lei de Kirchhoff - </a>
               <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/01/Aula1.pdf" 
-              >Lei de Kirchhoff</a></li>
+              >Video 1/3 - </a>
+              <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/01/Aula1.pdf" 
+              >Video 2/3 - </a> 
+              <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/01/Aula1.pdf" 
+              >Video 3/3.</a>
+    </li>
     <li> 02:  <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/02/Aula2.pdf" 
               >Methods of Analysis of Resistive Circuits (Node Voltage)</a></li>
     <li> 03:  <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/03/Aula3.pdf" 
