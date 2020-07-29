@@ -16,7 +16,7 @@
     <li> 03:  <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/03/Aula3.pdf" 
               ><b>Methods of Analysis of Resistive Circuits (Mesh Current) </b></a> >> <b>videos em gravação!!</b></li>
     <li> 04:  <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/04/Aula4.pdf" 
-              ><b>Exercise Class 1 </b></a> >> <b>videos em gravação!!</b> This is *red*{: style="color: red"}.</li>
+              ><b>Exercise Class 1 </b></a> >> <b>videos em gravação!![Look, ma! Red!](red)</li>
     <li> 05:  <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/05/Aula5.pdf" 
               ><b>Circuit Theorems </b></a> >> <b>videos em gravação!!</b></li>
     <li> 06:  <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/06/Aula6.pdf" 
