@@ -16,7 +16,7 @@
     <li> 03:  <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/03/Aula3.pdf" 
               ><b>Methods of Analysis of Resistive Circuits (Mesh Current) </b></a> >> <b>videos em gravação!!</b></li>
     <li> 04:  <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/04/Aula4.pdf" 
-              ><b>Exercise Class 1 </b></a> >> <b>videos em gravação!!</b></li>
+              ><b>Exercise Class 1 </b></a> >> <b>videos em gravação!!</b> <p>This is a <span style="color: red;">red</span> word in a sentence</p></li>
     <li> 05:  <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/05/Aula5.pdf" 
               ><b>Circuit Theorems </b></a> >> <b>videos em gravação!!</b></li>
     <li> 06:  <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/06/Aula6.pdf" 
@@ -24,7 +24,7 @@
     <li> 07:  <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/07/Aula7.pdf" 
               ><b>Exercise Class 2 </b></a> >> <b>videos em gravação!!</b></li>     
     <li> 08:  <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/08/Aula8.pdf" 
-              >Energy Storage Elements </b></a> >> <b>videos em gravação!!</b></li>    
+              ><b>Energy Storage Elements </b></a> >> <b>videos em gravação!!</b></li>    
     <li> 09:  <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/09/Aula9.pdf" 
               ><b>Exercise Class 3 </b></a> >> <b>videos em gravação!!</b></li>        
     <li> 10:  <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/10/Aula10.pdf" 
