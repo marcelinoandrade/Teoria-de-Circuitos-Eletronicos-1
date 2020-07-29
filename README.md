@@ -15,15 +15,23 @@
     <li> 06:  <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/06/Aula6.pdf" 
               >The Operational Amplifier</a></li>   
     <li> 07:  <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/07/Aula7.pdf" 
-              >Exercise Class 2</a></li>       
-    <li> 08: Energy Storage Elements</li>
-    <li> 09: Exercise Class 3</li>
-    <li> 10: The Complete Response of RL and RC Circuits</li>
-    <li> 11: The Complete Response of Circuits with Two Energy Storage Elements</li>
-    <li> 12: The Laplace Transform</li>
-    <li> 13: Exercise Class 4</li>
-    <li> 14: Sinusoidal Steady - State Analysis</li>
-    <li> 15: Exercise Class 5</li>
+              >Exercise Class 2</a></li>     
+    <li> 08:  <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/07/Aula8.pdf" 
+              >Energy Storage Elements</a></li>     
+    <li> 09:  <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/07/Aula9.pdf" 
+              >Exercise Class 3</a></li>         
+    <li> 10:  <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/07/Aula10.pdf" 
+              >The Complete Response of RL and RC Circuits</a></li>         
+    <li> 11:  <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/07/Aula11.pdf" 
+              >The Complete Response of Circuits with Two Energy Storage Elements</a></li>         
+    <li> 12:  <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/07/Aula12.pdf" 
+              >The Laplace Transform</a></li>         
+    <li> 13:  <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/07/Aula13.pdf" 
+              >Exercise Class 4</a></li>         
+    <li> 14:  <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/07/Aula14.pdf" 
+              >Sinusoidal Steady - State Analysis</a></li>         
+    <li> 15:  <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/07/Aula15.pdf" 
+              >Exercise Class 5</a></li>         
 </ul>
 
 <b> Bibliografia </b>
