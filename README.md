@@ -1,5 +1,3 @@
-# Teoria de Circuitos Eletrônicos 1
-
 ## Ementa
 
 <p align="justify"> Grandezas elétricas e conceitos básicos de circuitos elétricos; Leis de Kirchhoff e circuitos resistivos, Métodos de resolução: análise nodal e análise de malhas; Técnicas de análise: superposição, transformação de fontes; equivalentes Thevenin e Norton; Elementos armazenadores de energia; Funções singulares: degrau unitário, rampa unitária, impulso; Transformada de Laplace: Análise de transitórios e em regime permanente senoidal; Diodo ideal e Amplificadores Operacionais; Circuitos de 1ª e 2ª ordens.</p>
