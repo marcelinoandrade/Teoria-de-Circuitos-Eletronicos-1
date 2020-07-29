@@ -16,9 +16,9 @@
     <li> 03:  <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/03/Aula3.pdf" 
               ><b>Methods of Analysis of Resistive Circuits (Mesh Current) </b></a> >> >> videos em gravação!!</li>
     <li> 04:  <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/04/Aula4.pdf" 
-              ><b>Exercise Class 1 </b></a> >> >> videos em gravação!!</li>
+              ><b>Exercise Class 1 </b></a> >>videos em gravação!!</li>
     <li> 05:  <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/05/Aula5.pdf" 
-              ><b>Circuit Theorems </b></a> >> <b> >> videos em gravação!!</li>
+              ><b>Circuit Theorems </b></a> >> videos em gravação!!</li>
     <li> 06:  <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/06/Aula6.pdf" 
               ><b>The Operational Amplifier </b> >> videos em gravação!!</li>
     <li> 07:  <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/07/Aula7.pdf" 
