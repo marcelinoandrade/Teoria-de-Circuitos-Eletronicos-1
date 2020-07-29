@@ -1,11 +1,11 @@
-### Teoria de Circuitos Eletrônicos 1
+# Teoria de Circuitos Eletrônicos 1
 
 ## Ementa
 
 <p align="justify"> Grandezas elétricas e conceitos básicos de circuitos elétricos; Leis de Kirchhoff e circuitos resistivos, Métodos de resolução: análise nodal e análise de malhas; Técnicas de análise: superposição, transformação de fontes; equivalentes Thevenin e Norton; Elementos armazenadores de energia; Funções singulares: degrau unitário, rampa unitária, impulso; Transformada de Laplace: Análise de transitórios e em regime permanente senoidal; Diodo ideal e Amplificadores Operacionais; Circuitos de 1ª e 2ª ordens.</p>
 
 
-<b> Tópicos </b>
+### Tópicos 
 <ul>
     <li> 01:  <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/01/Aula1.pdf" 
               ><b>Lei de Kirchhoff </b></a> >>
