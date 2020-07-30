@@ -6,4 +6,5 @@
 5. Series Voltage Sources and Parallel Current Sources (3.5)
 6. Circuit Analysis (3.6)
 7. Analyzing Resistive Circuits Using MATLAB
-8. Introduction to Electric Circuits 9th Edition by James A. Svoboda, Richard C. Dorf
+
+Introduction to Electric Circuits 9th Edition by James A. Svoboda, Richard C. Dorf
