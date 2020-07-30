@@ -4,7 +4,7 @@
 
 
 ### Tópicos 
-<ol>
+<ul>
 
     <li> 01:  <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/01/Aula1.pdf" 
               ><b>Lei de Kirchhoff </b></a> >>
@@ -45,7 +45,7 @@
     <li> 15:  <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/15/Aula15.pdf" 
               ><b>Exercise Class 5 </b></a> >> Videos??</li>
 
-</ol>
+</ul>
 
 <b> Bibliografia </b>
 
