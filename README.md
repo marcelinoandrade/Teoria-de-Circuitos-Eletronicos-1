@@ -5,6 +5,7 @@
 
 ### Tópicos 
 <ul>
+    <ul>
     <li> 01:  <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/01/Aula1.pdf" 
               ><b>Lei de Kirchhoff </b></a> >>
               <a href="https://www.youtube.com/watch?v=8DDf-CN44PY" 
@@ -14,7 +15,7 @@
               <a href="https://www.youtube.com/watch?v=sCPLH2dMeII" 
               > Video 3/3.</a>
     </li>
-    <ul>
+
     <li> 02:  <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/02/Aula2.pdf" 
               ><b>Methods of Analysis of Resistive Circuits (Node Voltage) </b></a> >> Videos??</li>
     <li> 03:  <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/03/Aula3.pdf" 
