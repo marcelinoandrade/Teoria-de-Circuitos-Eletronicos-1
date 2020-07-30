@@ -51,6 +51,5 @@
 <li>Introduction to Electric Circuits 9th Edition by James A. Svoboda, Richard C. Dorf</li>
 <li>Fundamentals of Electric Circuits (Alexander and Sadiku), 4th Edition</li>
 </ol>
-<p align="center">
 <img src="fga.png" width="400" height="80">
-</p>
+
