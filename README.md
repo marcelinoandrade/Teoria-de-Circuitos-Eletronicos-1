@@ -1,4 +1,4 @@
-<img src="fga.png" width="1000" height="80">
+<img src="fga.png" width="800" height="80">
 
 ## Ementa
 
