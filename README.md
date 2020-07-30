@@ -5,7 +5,6 @@
 
 ### Tópicos 
 <ul>
-
     <li> 01:  <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/01/Aula1.pdf" 
               ><b>Lei de Kirchhoff </b></a> >>
               <a href="https://www.youtube.com/watch?v=8DDf-CN44PY" 
