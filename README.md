@@ -4,7 +4,7 @@
 
 
 ### Tópicos 
-<ul>
+<ol>
     <li> 01:  <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/01/Aula1.pdf" 
               ><b>Lei de Kirchhoff </b></a> >>
               <a href="https://www.youtube.com/watch?v=8DDf-CN44PY" 
@@ -42,8 +42,7 @@
               ><b>Sinusoidal Steady - State Analysis </b></a> >> Videos??</li>
     <li> 15:  <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/15/Aula15.pdf" 
               ><b>Exercise Class 5 </b></a> >> Videos??</li>
-
-</ul>
+</ol>
 
 <b> Bibliografia </b>
 
