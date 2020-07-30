@@ -17,7 +17,7 @@
     <li> 02:  <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/02/Aula2.pdf" 
               ><b>Methods of Analysis of Resistive Circuits (Node Voltage) </b></a> >> Videos??</li>
     <li> 03:  <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/03/Aula3.pdf" 
-              ><b>Methods of Analysis of Resistive Circuits (Mesh Current) </b></a> >> Videos??</li></a> >> Videos??</li>
+              ><b>Methods of Analysis of Resistive Circuits (Mesh Current) </b></a> >> Videos??</li>
     <li> 04:  <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/04/Aula4.pdf" 
               ><b>Exercise Class 1 </b></a> >> Videos??</li>
     <li> 05:  <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/05/Aula5.pdf" 
