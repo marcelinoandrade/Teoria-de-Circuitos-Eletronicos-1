@@ -3,7 +3,7 @@
 <ul>
     <li> <b>Universidade de Brasília - UnB</b> </li>
     <li> <b>Campus UnB Gama</b> </li>
-    <li> <b>Disciplina: Téoria de Circuitos Eletrônicos 1</b></li>
+    <li> <b>Disciplina: Teoria de Circuitos Eletrônicos 1</b></li>
     <li> <a href="https://www.linkedin.com/in/marcelino-andrade-b164b369/" ><b>Prof. Marcelino Monteiro de Andrade Dr.</b></a></li>
 </ul>
     
