@@ -15,7 +15,6 @@
               <a href="https://www.youtube.com/watch?v=sCPLH2dMeII" 
               > Video 3/3.</a>
     </li>
-
     <li> 02:  <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/02/Aula2.pdf" 
               ><b>Methods of Analysis of Resistive Circuits (Node Voltage) </b></a> >> Videos??</li>
     <li> 03:  <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/03/Aula3.pdf" 
