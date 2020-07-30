@@ -24,9 +24,9 @@ Grandezas elétricas e conceitos básicos de circuitos elétricos; Leis de Kirch
               > Video 3/3.</a>
     </li>
     <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/02/Aula2.pdf" 
-              ><b>Methods of Analysis of Resistive Circuits (Node Voltage) </b></a> >> Videos??</li>
+              ><b>Methods of Analysis - Node Voltage </b></a> >> Videos??</li>
     <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/03/Aula3.pdf" 
-              ><b>Methods of Analysis of Resistive Circuits (Mesh Current) </b></a> >> Videos??</li>
+              ><b>Methods of Analysis - Mesh Current </b></a> >> Videos??</li>
     <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/04/Aula4.pdf" 
               ><b>Exercise Class 1 </b></a> >> Videos??</li>
     <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/05/Aula5.pdf" 
@@ -40,9 +40,9 @@ Grandezas elétricas e conceitos básicos de circuitos elétricos; Leis de Kirch
     <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/09/Aula9.pdf" 
               ><b>Exercise Class 3 </b></a> >> Videos??</li>
     <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/10/Aula10.pdf" 
-              ><b>The Complete Response of RL and RC Circuits </b></a> >> Videos??</li>
+              ><b>RL and RC Circuits </b></a> >> Videos??</li>
     <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/11/Aula11.pdf" 
-              ><b>The Complete Response of Circuits with Two Energy Storage Elements </b></a> >> Videos??</li>
+              ><b>Circuits with Two Energy Storage Elements </b></a> >> Videos??</li>
     <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/12/Aula12.pdf" 
               ><b>The Laplace Transform </b></a> >> Videos??</li>
     <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/13/Aula13.pdf" 
