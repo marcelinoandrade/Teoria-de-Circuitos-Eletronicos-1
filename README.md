@@ -15,20 +15,20 @@ Grandezas elétricas e conceitos básicos de circuitos elétricos; Leis de Kirch
 ### Tópicos 
 <ol>
     <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/01/Aula1.pdf" 
-              ><b>Lei de Kirchhoff </b></a> >>
+              ><b>Lei de Kirchhoff </b></a> >> Vídeos >> 
               <a href="https://www.youtube.com/watch?v=8DDf-CN44PY" 
-              > Video 1/3 </a> >>
+              > 1/3 </a> >>
               <a href="https://www.youtube.com/watch?v=-wXm2PdQOTw" 
-              > Video 2/3 </a> >> 
+              > 2/3 </a> >> 
               <a href="https://www.youtube.com/watch?v=sCPLH2dMeII" 
-              > Video 3/3.</a>
+              > 3/3 </a>
     </li>
     <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/02/Aula2.pdf" 
-              ><b>Methods of Analysis - Node Voltage </b></a> >>
+              ><b>Methods of Analysis - Node Voltage </b></a> >> Vídeos >>
               <a href="https://www.youtube.com/watch?v=lJjbnI2DOY8" 
-              > Video 1/3 </a> >> 
+              > 1/3 </a> >> 
                <a href="https://www.youtube.com/watch?v=6400juVGZSA" 
-              > Video 2/3 </a> >> ???
+              > 2/3 </a> >> 3/3
    </li>   
     <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/03/Aula3.pdf" 
               ><b>Methods of Analysis - Mesh Current </b></a> >> Videos??</li>
