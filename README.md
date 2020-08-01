@@ -28,8 +28,6 @@ Grandezas elétricas e conceitos básicos de circuitos elétricos; Leis de Kirch
               <a href="https://www.youtube.com/watch?v=lJjbnI2DOY8" 
               > Video 1/3 </a> >> ???
     </li>    
-    <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/02/Aula2.pdf" 
-              ><b>Methods of Analysis - Node Voltage </b></a> >> Videos??</li>
     <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/03/Aula3.pdf" 
               ><b>Methods of Analysis - Mesh Current </b></a> >> Videos??</li>
     <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/04/Aula4.pdf" 
