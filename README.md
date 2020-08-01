@@ -12,7 +12,7 @@
 Grandezas elétricas e conceitos básicos de circuitos elétricos; Leis de Kirchhoff e circuitos resistivos, Métodos de resolução: análise nodal e análise de malhas; Técnicas de análise: superposição, transformação de fontes; equivalentes Thevenin e Norton; Elementos armazenadores de energia; Funções singulares: degrau unitário, rampa unitária, impulso; Transformada de Laplace: Análise de transitórios e em regime permanente senoidal; Diodo ideal e Amplificadores Operacionais; Circuitos de 1ª e 2ª ordens.
 </p>
 
-### Tópicos 
+### Tópicos & Vídeos
 <ol>
     <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/01/Aula1.pdf" 
               ><b>Lei de Kirchhoff </b></a> >>  
@@ -58,7 +58,7 @@ Grandezas elétricas e conceitos básicos de circuitos elétricos; Leis de Kirch
               ><b>Exercise Class 5 </b></a> >> V:X/Y</li>
 </ol>
 
-<b> Bibliografia </b>
+### Bibliografia
 
 
 <ol type="1">
