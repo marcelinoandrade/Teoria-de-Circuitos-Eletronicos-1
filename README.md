@@ -15,7 +15,7 @@ Grandezas elétricas e conceitos básicos de circuitos elétricos; Leis de Kirch
 ### Aulas & Vídeos
 <ol>
     <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/01/Aula1.pdf" 
-              ><b>Lei de Kirchhoff </b></a> &  
+              ><b>Lei de Kirchhoff </b></a> <b>&</b>  
               <a href="https://www.youtube.com/watch?v=8DDf-CN44PY" 
               > V:1/3 </a> >>
               <a href="https://www.youtube.com/watch?v=-wXm2PdQOTw" 
@@ -24,38 +24,38 @@ Grandezas elétricas e conceitos básicos de circuitos elétricos; Leis de Kirch
               > V:2/3 </a>;
     </li>
     <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/02/Aula2.pdf" 
-              ><b>Methods of Analysis - Node Voltage </b></a> & 
+              ><b>Methods of Analysis - Node Voltage </b></a>  <b>&</b>
               <a href="https://www.youtube.com/watch?v=lJjbnI2DOY8" 
               > V:1/3 </a> >> 
                <a href="https://www.youtube.com/watch?v=6400juVGZSA" 
               > V:2/3 </a> >> V:3/3;
    </li>   
     <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/03/Aula3.pdf" 
-              ><b>Methods of Analysis - Mesh Current </b></a> & V:X/Y;</li>
+              ><b>Methods of Analysis - Mesh Current </b></a> <b>&</b> V:X/Y;</li>
     <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/04/Aula4.pdf" 
-              ><b>Exercise Class 1 </b></a> & V:X/Y;</li>
+              ><b>Exercise Class 1 </b></a> <b>&</b> V:X/Y;</li>
     <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/05/Aula5.pdf" 
-              ><b>Circuit Theorems </b></a> & V:X/Y;</li>
+              ><b>Circuit Theorems </b></a> <b>&</b> V:X/Y;</li>
     <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/06/Aula6.pdf" 
-              ><b>The Operational Amplifier </b></a> & V:X/Y</li>
+              ><b>The Operational Amplifier </b></a> <b>&</b> V:X/Y</li>
     <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/07/Aula7.pdf" 
-              ><b>Exercise Class 2 </b></a> & V:X/Y;</li>
+              ><b>Exercise Class 2 </b></a> <b>&</b> V:X/Y;</li>
     <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/08/Aula8.pdf" 
-              ><b>Energy Storage Elements </b></a> & V:X/Y;</li>
+              ><b>Energy Storage Elements </b></a> <b>&</b> V:X/Y;</li>
     <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/09/Aula9.pdf" 
-              ><b>Exercise Class 3 </b></a> & V:X/Y;</li>
+              ><b>Exercise Class 3 </b></a> <b>&</b> V:X/Y;</li>
     <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/10/Aula10.pdf" 
-              ><b>RL and RC Circuits </b></a> & V:X/Y;</li>
+              ><b>RL and RC Circuits </b></a> <b>&</b> V:X/Y;</li>
     <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/11/Aula11.pdf" 
-              ><b>Circuits with Two Energy Storage Elements </b></a> & V:X/Y;</li>
+              ><b>Circuits with Two Energy Storage Elements </b></a> <b>&</b> V:X/Y;</li>
     <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/12/Aula12.pdf" 
-              ><b>The Laplace Transform </b></a> & V:X/Y;</li>
+              ><b>The Laplace Transform </b></a> <b>&</b> V:X/Y;</li>
     <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/13/Aula13.pdf" 
-              ><b>Exercise Class 4 </b></a> & V:X/Y;</li>
+              ><b>Exercise Class 4 </b></a> <b>&</b> V:X/Y;</li>
     <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/14/Aula14.pdf" 
-              ><b>Sinusoidal Steady - State Analysis </b></a> & V:X/Y;</li>
+              ><b>Sinusoidal Steady - State Analysis </b></a> <b>&</b> V:X/Y;</li>
     <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/15/Aula15.pdf" 
-              ><b>Exercise Class 5 </b></a> & V:X/Y.</li>
+              ><b>Exercise Class 5 </b></a> <b>&</b> V:X/Y.</li>
 </ol>
 
 ### Bibliografia
