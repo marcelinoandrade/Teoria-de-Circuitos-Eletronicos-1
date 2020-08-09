@@ -35,7 +35,9 @@ Grandezas elétricas e conceitos básicos de circuitos elétricos; Leis de Kirch
     <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/03/Aula3.pdf" 
               ><b>Methods of Analysis - Mesh Current </b></a>  <b>&</b>
               <a href="https://www.youtube.com/watch?v=_rfe2yyMgUI" 
-              > V:1/3 </a> >> V:2/3 >> V:3/3;
+              > V:1/3 </a> >>
+               <a href="https://www.youtube.com/watch?v=GgeGf4fXd_U" 
+              > V:2/3 </a> >> V:3/3;
     </li>       
     <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/04/Aula4.pdf" 
               ><b>Exercise Class 1 </b></a> <b>&</b> V:X/Y;</li>
