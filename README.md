@@ -42,7 +42,10 @@ Grandezas elétricas e conceitos básicos de circuitos elétricos; Leis de Kirch
               > V:3/3 </a>;
     </li>       
     <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/04/Aula4.pdf" 
-              ><b>Exercise Class 1 </b></a> <b>&</b> V:X/Y;</li>
+              ><b>Exercise Class 1 </b></a> <b>&</b>         
+              <a href="https://www.youtube.com/watch?v=9WGzGWdmZcs" 
+              > V:1/1 </a>;
+    </li>
     <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/05/Aula5.pdf" 
               ><b>Circuit Theorems </b></a> <b>&</b> V:X/Y;</li>
     <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/06/Aula6.pdf" 
