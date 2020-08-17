@@ -17,11 +17,11 @@ Grandezas elétricas e conceitos básicos de circuitos elétricos; Leis de Kirch
     <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/01/Aula1.pdf" 
               ><b>Lei de Kirchhoff </b></a> <b>&</b>  
               <a href="https://www.youtube.com/watch?v=8DDf-CN44PY" 
-              > V:1/3 </a> >>
+              ><b> V:1/3 </b></a> >>
               <a href="https://www.youtube.com/watch?v=-wXm2PdQOTw" 
-              > V:2/3 </a> >> 
+              ><b> V:2/3 </b></a> >> 
               <a href="https://www.youtube.com/watch?v=sCPLH2dMeII" 
-              > V:2/3 </a>;
+              ><b> V:2/3 </b></a>;
     </li>
     <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/02/Aula2.pdf" 
               ><b>Methods of Analysis - Node Voltage </b></a>  <b>&</b>
