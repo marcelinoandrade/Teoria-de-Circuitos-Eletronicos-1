@@ -26,25 +26,25 @@ Grandezas elétricas e conceitos básicos de circuitos elétricos; Leis de Kirch
     <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/02/Aula2.pdf" 
               ><b>Methods of Analysis - Node Voltage </b></a>  <b>&</b>
               <a href="https://www.youtube.com/watch?v=lJjbnI2DOY8" 
-              > V:1/3 </a> >> 
+              ><b> V:1/3 </b></a> >> 
                <a href="https://www.youtube.com/watch?v=6400juVGZSA" 
-              > V:2/3 </a> >>
+              ><b> V:2/3 </b></a> >>
               <a href="https://www.youtube.com/watch?v=a1eWXCBmzZs" 
-              > V:3/3 </a>;  
+              ><b> V:3/3 </b></a>;  
     </li>   
     <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/03/Aula3.pdf" 
               ><b>Methods of Analysis - Mesh Current </b></a>  <b>&</b>
               <a href="https://www.youtube.com/watch?v=_rfe2yyMgUI" 
-              > V:1/3 </a> >>
+              ><b> V:1/3 </b></a> >>
               <a href="https://www.youtube.com/watch?v=GgeGf4fXd_U" 
-              > V:2/3 </a> >>
+              ><b> V:2/3 </b></a> >>
               <a href="https://www.youtube.com/watch?v=6wumFEuzpIM" 
-              > V:3/3 </a>;
+              ><b> V:3/3 </b></a>;
     </li>       
     <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/04/Aula4.pdf" 
               ><b>Exercise Class 1 </b></a> <b>&</b>         
               <a href="https://www.youtube.com/watch?v=9WGzGWdmZcs" 
-              > V:1/1 </a>;
+              ><b> V:1/1 </b></a>;
     </li>
     <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/05/Aula5.pdf" 
               ><b>Circuit Theorems </b></a> <b>&</b> V:X/Y;</li>
