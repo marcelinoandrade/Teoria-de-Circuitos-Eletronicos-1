@@ -50,10 +50,8 @@ Grandezas elétricas e conceitos básicos de circuitos elétricos; Leis de Kirch
               ><b>Circuit Theorems </b></a>  <b>&</b>
               <a href="https://youtu.be/GHzcXtZMbaQ">  
               <b> V:1/3 </b></a> <b>>></b>
-        <!     <a href="https://www.youtube.com/watch?v=GgeGf4fXd_U">   
-              <b> V:2/3 </b></a> <b>>></b>
-        <!     <a href="https://www.youtube.com/watch?v=6wumFEuzpIM">    
-              <b> V:3/3 </b></a>;
+              <b> V:2/3 </b><b>>></b>
+              <b> V:3/3 </b>;
     </li>       
     <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/06/Aula6.pdf" 
               ><b>The Operational Amplifier </b></a> <b>&</b> V:X/Y</li>
