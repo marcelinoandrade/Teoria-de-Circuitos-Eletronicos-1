@@ -34,7 +34,7 @@ Grandezas elétricas e conceitos básicos de circuitos elétricos; Leis de Kirch
     </li> 
     <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/05/Aula5.pdf"> <b>Circuit Theorems </b> </a>  <b> & </b> 
               <a href="https://youtu.be/GHzcXtZMbaQ"> <b> V:1/3 </b> </a> <b> >> </b>
-              <a href="https://youtu.be/GHzcXtZMbaQ"> <b> V:2/3 </b> </a> <b> >> </b>
+              <a href="https://youtu.be/NFGSIsMBKco"> <b> V:2/3 </b> </a> <b> >> </b>
               <b> V:3/3 </b>;
     </li>       
     <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/06/Aula6.pdf" 
