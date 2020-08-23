@@ -44,7 +44,6 @@ Grandezas elétricas e conceitos básicos de circuitos elétricos; Leis de Kirch
     </tr>
   </tbody>
 </table>
-
 <ol>
     <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/02/Aula2.pdf"> <b>Methods of Analysis - Node Voltage </b> </a> <b> & </b> 
               <a href="https://www.youtube.com/watch?v=lJjbnI2DOY8"><b> V:1/3 </b> </a> <b> >> </b>  
