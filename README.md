@@ -13,80 +13,115 @@ Grandezas elétricas e conceitos básicos de circuitos elétricos; Leis de Kirch
 </p>
 
 ### Aulas & Vídeos
-
-
 <table border="1" class="dataframe">
   <tbody>
     <tr>
-      <th>1</th>
+      <th>01</th>
       <td> <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/01/Aula1.pdf"> <b> Lei de Kirchhoff</b> </a></td>
       <td> <a href="https://www.youtube.com/watch?v=8DDf-CN44PY"> <center> <b> 1 </b> </center> </a> </td>
       <td> <a href="https://www.youtube.com/watch?v=-wXm2PdQOTw"> <center> <b> 2 </b> </center> </a> </td>
       <td> <a href="https://www.youtube.com/watch?v=sCPLH2dMeII"> <center> <b> 2 </b> </center> </a> </td>
     </tr>
     <tr> 
-      <th>2</th>
+      <th>02</th>
       <td> <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/02/Aula2.pdf"> <b> Methods of Analysis - Node Voltage</b> </a></td>
       <td> <a href="https://www.youtube.com/watch?v=lJjbnI2DOY8"> <center> <b> 1 </b> </center> </a> </td>
       <td> <a href="https://www.youtube.com/watch?v=6400juVGZSA"> <center> <b> 2 </b> </center> </a> </td>
       <td> <a href="https://www.youtube.com/watch?v=a1eWXCBmzZs"> <center> <b> 2 </b> </center> </a> </td>
     </tr>
     <tr>  
-      <th>3</th>
+      <th>03</th>
       <td> <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/03/Aula3.pdf"> <b>Methods of Analysis - Mesh Current</b> </a></td>
       <td> <a href="https://www.youtube.com/watch?v=_rfe2yyMgUI"> <center> <b> 1 </b> </center> </a> </td>
       <td> <a href="https://www.youtube.com/watch?v=GgeGf4fXd_U"> <center> <b> 2 </b> </center> </a> </td>
       <td> <a href="https://www.youtube.com/watch?v=6wumFEuzpIM"> <center> <b> 3 </b> </center> </a> </td>
     </tr>
     <tr>  
-      <th>3</th>
+      <th>04</th>
       <td> <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/04/Aula4.pdf"> <b>Exercise Class 1</b> </a></td>
-      <td> <a href="https://www.youtube.com/watch?v=9WGzGWdmZcs">  <b> 1 </b> </center> </a> </td>
-      <td></center> <b> - </b><center> </td>
-      <td></center> <b> - </b><center> </td>
-    </tr>       
+      <td> <a href="https://www.youtube.com/watch?v=9WGzGWdmZcs"> <center> <b> 1 </b> </center> </a> </td>
+      <td><center> <b> - </b></center> </td>
+      <td><center> <b> - </b></center> </td>
+    </tr>
+    <tr>  
+      <th>05</th>
+      <td> <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/05/Aula5.pdf"> <b>Circuit Theorems</b> </a></td>
+      <td> <a href="https://youtu.be/GHzcXtZMbaQ"> <center> <b> 1 </b> </center></a> </td>
+      <td> <a href="https://youtu.be/NFGSIsMBKco"> <center> <b> 2 </b> </center> </a> </td>
+      <td> <a href="https://www.youtube.com/watch?v=zBksncVLVqM"> <center> <b> 3 </b> </center> </a> </td>
+    </tr>
+    <tr>  
+      <th>06</th>
+      <td> <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/06/Aula6.pdf"> <b>The Operational Amplifier</b> </a></td>
+      <td><center> <b> - </b> </center> </td>
+      <td><center> <b> - </b> </center> </td>
+      <td><center> <b> - </b> </center> </td>
+    </tr>
+    <tr>  
+      <th>07</th>
+      <td> <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/07/Aula7.pdf"> <b>Exercise Class 2</b> </a></td>
+      <td><center> <b> - </b> </center> </td>
+      <td><center> <b> - </b> </center> </td>
+      <td><center> <b> - </b> </center> </td>
+    </tr>
+    <tr>  
+      <th>08</th>
+      <td> <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/08/Aula8.pdf"> <b>Energy Storage Elements</b> </a></td>
+      <td><center> <b> - </b> </center> </td>
+      <td><center> <b> - </b> </center> </td>
+      <td><center> <b> - </b> </center> </td>
+    </tr>
+    <tr>  
+      <th>09</th>
+      <td> <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/09/Aula9.pdf"> <b>Exercise Class 3</b> </a></td>
+      <td><center> <b> - </b> </center> </td>
+      <td><center> <b> - </b> </center> </td>
+      <td><center> <b> - </b> </center> </td>
+    </tr>
+    <tr>  
+      <th>10</th>
+      <td> <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/10/Aula10.pdf"> <b>RL and RC Circuits</b> </a></td>
+      <td><center> <b> - </b> </center> </td>
+      <td><center> <b> - </b> </center> </td>
+      <td><center> <b> - </b> </center> </td>
+    </tr>
+    <tr>  
+      <th>11</th>
+      <td> <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/11/Aula11.pdf"> <b>Circuits with Two Energy Storage Elements</b> </a></td>
+      <td><center> <b> - </b> </center> </td>
+      <td><center> <b> - </b> </center> </td>
+      <td><center> <b> - </b> </center> </td>
+    </tr>
+    <tr>  
+      <th>12</th>
+      <td> <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/12/Aula12.pdf"> <b>The Laplace Transform</b> </a></td>
+      <td><center> <b> - </b> </center> </td>
+      <td><center> <b> - </b> </center> </td>
+      <td><center> <b> - </b> </center> </td>
+    </tr>
+    <tr>  
+      <th>13</th>
+      <td> <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/13/Aula13.pdf"> <b>Exercise Class 4</b> </a></td>
+      <td><center> <b> - </b> </center> </td>
+      <td><center> <b> - </b> </center> </td>
+      <td><center> <b> - </b> </center> </td>
+    </tr>
+    <tr>  
+      <th>14</th>
+      <td> <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/14/Aula14.pdf"> <b>Sinusoidal Steady - State Analysis</b> </a></td>
+      <td><center> <b> - </b> </center> </td>
+      <td><center> <b> - </b> </center> </td>
+      <td><center> <b> - </b> </center> </td>
+    </tr>
+    <tr>  
+      <th>15</th>
+      <td> <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/15/Aula15.pdf"> <b>Exercise Class 5</b> </a></td>
+      <td><center> <b> - </b> </center> </td>
+      <td><center> <b> - </b> </center> </td>
+      <td><center> <b> - </b> </center> </td>
+    </tr>
   </tbody>
 </table>
-<ol>
-    <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/02/Aula2.pdf"> <b>Methods of Analysis - Node Voltage </b> </a> <b> & </b> 
-              <a href="https://www.youtube.com/watch?v=lJjbnI2DOY8"><b> V:1/3 </b> </a> <b> >> </b>  
-              <a href="https://www.youtube.com/watch?v=6400juVGZSA"><b> V:2/3 </b> </a> <b> >> </b> 
-              <a href="https://www.youtube.com/watch?v=a1eWXCBmzZs"><b> V:3/3 </b> </a>;          
-    </li>   
-    <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/03/Aula3.pdf"> <b>Methods of Analysis - Mesh Current </b> </a>  <b> & </b> 
-              <a href="https://www.youtube.com/watch?v=_rfe2yyMgUI"> <b> V:1/3 </b> </a> <b> >> </b> 
-              <a href="https://www.youtube.com/watch?v=GgeGf4fXd_U"> <b> V:2/3 </b> </a> <b> >> </b> 
-              <a href="https://www.youtube.com/watch?v=6wumFEuzpIM"> <b> V:3/3 </b> </a>; 
-    </li>       
-    <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/04/Aula4.pdf"> <b>Exercise Class 1 </b> </a> <b> & </b>   
-              <a href="https://www.youtube.com/watch?v=9WGzGWdmZcs"> <b> V:1/1 </b> </a>; 
-    </li> 
-    <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/05/Aula5.pdf"> <b>Circuit Theorems </b> </a>  <b> & </b> 
-              <a href="https://youtu.be/GHzcXtZMbaQ"> <b> V:1/3 </b> </a> <b> >> </b>
-              <a href="https://youtu.be/NFGSIsMBKco"> <b> V:2/3 </b> </a> <b> >> </b>
-              <a href="https://www.youtube.com/watch?v=zBksncVLVqM"> <b> V:3/3 </b> </a>; 
-    </li>       
-    <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/06/Aula6.pdf" 
-              ><b>The Operational Amplifier </b></a> <b>&</b> V:X/Y</li>
-    <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/07/Aula7.pdf" 
-              ><b>Exercise Class 2 </b></a> <b>&</b> V:X/Y;</li>
-    <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/08/Aula8.pdf" 
-              ><b>Energy Storage Elements </b></a> <b>&</b> V:X/Y;</li>
-    <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/09/Aula9.pdf" 
-              ><b>Exercise Class 3 </b></a> <b>&</b> V:X/Y;</li>
-    <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/10/Aula10.pdf" 
-              ><b>RL and RC Circuits </b></a> <b>&</b> V:X/Y;</li>
-    <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/11/Aula11.pdf" 
-              ><b>Circuits with Two Energy Storage Elements </b></a> <b>&</b> V:X/Y;</li>
-    <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/12/Aula12.pdf" 
-              ><b>The Laplace Transform </b></a> <b>&</b> V:X/Y;</li>
-    <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/13/Aula13.pdf" 
-              ><b>Exercise Class 4 </b></a> <b>&</b> V:X/Y;</li>
-    <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/14/Aula14.pdf" 
-              ><b>Sinusoidal Steady - State Analysis </b></a> <b>&</b> V:X/Y;</li>
-    <li><a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/15/Aula15.pdf" 
-              ><b>Exercise Class 5 </b></a> <b>&</b> V:X/Y.</li>
-</ol>
 
 ### Bibliografia
 
