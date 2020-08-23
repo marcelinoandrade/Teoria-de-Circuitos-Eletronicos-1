@@ -24,17 +24,20 @@ Grandezas elétricas e conceitos básicos de circuitos elétricos; Leis de Kirch
       <td> <a href="https://www.youtube.com/watch?v=-wXm2PdQOTw"> <center> <b> 2 </b> </center> </a> </td>
       <td> <a href="https://www.youtube.com/watch?v=sCPLH2dMeII"> <center> <b> 2 </b> </center> </a> </td>
     </tr>
+    <tr> 
       <th>2</th>
       <td> <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/02/Aula2.pdf"> <b> Methods of Analysis - Node Voltage</b> </a></td>
       <td> <a href="https://www.youtube.com/watch?v=lJjbnI2DOY8"> <center> <b> 1 </b> </center> </a> </td>
       <td> <a href="https://www.youtube.com/watch?v=6400juVGZSA"> <center> <b> 2 </b> </center> </a> </td>
       <td> <a href="https://www.youtube.com/watch?v=a1eWXCBmzZs"> <center> <b> 2 </b> </center> </a> </td>
     </tr>
+    <tr>  
       <th>3</th>
       <td> <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/03/Aula3.pdf"> <b>Methods of Analysis - Mesh Current</b> </a></td>
       <td> <a href="https://www.youtube.com/watch?v=_rfe2yyMgUI"> <center> <b> 1 </b> </center> </a> </td>
       <td> <a href="https://www.youtube.com/watch?v=GgeGf4fXd_U"> <center> <b> 2 </b> </center> </a> </td>
       <td> <a href="https://www.youtube.com/watch?v=6wumFEuzpIM"> <center> <b> 3 </b> </center> </a> </td>
+    </tr>
   </tbody>
 </table>
 <ol>
