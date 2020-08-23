@@ -41,9 +41,9 @@ Grandezas elétricas e conceitos básicos de circuitos elétricos; Leis de Kirch
     <tr>  
       <th>3</th>
       <td> <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/04/Aula4.pdf"> <b>Exercise Class 1</b> </a></td>
-      <td> <a href="https://www.youtube.com/watch?v=9WGzGWdmZcs"> <center> <b> 1 </b> </center> </a> </td>
-      <td> <b> - </b> </td>
-      <td> <b> - </b> </td>
+      <td> <a href="https://www.youtube.com/watch?v=9WGzGWdmZcs">  <b> 1 </b> </center> </a> </td>
+      <td></center> <b> - </b><center> </td>
+      <td></center> <b> - </b><center> </td>
     </tr>       
   </tbody>
 </table>
