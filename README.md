@@ -19,36 +19,36 @@ Grandezas elétricas e conceitos básicos de circuitos elétricos; Leis de Kirch
       <th>01</th>
       <td> <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/01/Aula1.pdf"> <b> Lei de Kirchhoff</b> </a></td>
       <td> <a href="https://www.youtube.com/watch?v=8DDf-CN44PY"> <center> <b> 1<sup>o</sup> </b> </center> </a> </td>
-      <td> <a href="https://www.youtube.com/watch?v=-wXm2PdQOTw"> <center> <b> 2 </b> </center> </a> </td>
-      <td> <a href="https://www.youtube.com/watch?v=sCPLH2dMeII"> <center> <b> 3 </b> </center> </a> </td>
+      <td> <a href="https://www.youtube.com/watch?v=-wXm2PdQOTw"> <center> <b> 2<sup>o</sup> </b> </center> </a> </td>
+      <td> <a href="https://www.youtube.com/watch?v=sCPLH2dMeII"> <center> <b> 3<sup>o</sup> </b> </center> </a> </td>
     </tr>
     <tr> 
       <th>02</th>
       <td> <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/02/Aula2.pdf"> <b> Methods of Analysis - Node Voltage</b> </a></td>
-      <td> <a href="https://www.youtube.com/watch?v=lJjbnI2DOY8"> <center> <b> 1 </b> </center> </a> </td>
-      <td> <a href="https://www.youtube.com/watch?v=6400juVGZSA"> <center> <b> 2 </b> </center> </a> </td>
-      <td> <a href="https://www.youtube.com/watch?v=a1eWXCBmzZs"> <center> <b> 3 </b> </center> </a> </td>
+      <td> <a href="https://www.youtube.com/watch?v=lJjbnI2DOY8"> <center> <b> 1<sup>o</sup> </b> </center> </a> </td>
+      <td> <a href="https://www.youtube.com/watch?v=6400juVGZSA"> <center> <b> 2<sup>o</sup> </b> </center> </a> </td>
+      <td> <a href="https://www.youtube.com/watch?v=a1eWXCBmzZs"> <center> <b> 3<sup>o</sup> </b> </center> </a> </td>
     </tr>
     <tr>  
       <th>03</th>
       <td> <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/03/Aula3.pdf"> <b>Methods of Analysis - Mesh Current</b> </a></td>
-      <td> <a href="https://www.youtube.com/watch?v=_rfe2yyMgUI"> <center> <b> 1 </b> </center> </a> </td>
-      <td> <a href="https://www.youtube.com/watch?v=GgeGf4fXd_U"> <center> <b> 2 </b> </center> </a> </td>
-      <td> <a href="https://www.youtube.com/watch?v=6wumFEuzpIM"> <center> <b> 3 </b> </center> </a> </td>
+      <td> <a href="https://www.youtube.com/watch?v=_rfe2yyMgUI"> <center> <b> 1<sup>o</sup> </b> </center> </a> </td>
+      <td> <a href="https://www.youtube.com/watch?v=GgeGf4fXd_U"> <center> <b> 2<sup>o</sup> </b> </center> </a> </td>
+      <td> <a href="https://www.youtube.com/watch?v=6wumFEuzpIM"> <center> <b> 3<sup>o</sup> </b> </center> </a> </td>
     </tr>
     <tr>  
       <th>04</th>
       <td> <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/04/Aula4.pdf"> <b>Exercise Class 1</b> </a></td>
-      <td> <a href="https://www.youtube.com/watch?v=9WGzGWdmZcs"> <center> <b> 1 </b> </center> </a> </td>
+      <td> <a href="https://www.youtube.com/watch?v=9WGzGWdmZcs"> <center> <b> 1<sup>o</sup> </b> </center> </a> </td>
       <td><center> <b> - </b></center> </td>
       <td><center> <b> - </b></center> </td>
     </tr>
     <tr>  
       <th>05</th>
       <td> <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/05/Aula5.pdf"> <b>Circuit Theorems</b> </a></td>
-      <td> <a href="https://youtu.be/GHzcXtZMbaQ"> <center> <b> 1 </b> </center></a> </td>
-      <td> <a href="https://youtu.be/NFGSIsMBKco"> <center> <b> 2 </b> </center> </a> </td>
-      <td> <a href="https://www.youtube.com/watch?v=zBksncVLVqM"> <center> <b> 3 </b> </center> </a> </td>
+      <td> <a href="https://youtu.be/GHzcXtZMbaQ"> <center> <b> 1<sup>o</sup> </b> </center></a> </td>
+      <td> <a href="https://youtu.be/NFGSIsMBKco"> <center> <b> 2<sup>o</sup> </b> </center> </a> </td>
+      <td> <a href="https://www.youtube.com/watch?v=zBksncVLVqM"> <center> <b> 3<sup>o</sup> </b> </center> </a> </td>
     </tr>
     <tr>  
       <th>06</th>
