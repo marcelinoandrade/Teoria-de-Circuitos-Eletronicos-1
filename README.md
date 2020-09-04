@@ -60,7 +60,7 @@ Grandezas elétricas e conceitos básicos de circuitos elétricos; Leis de Kirch
     <tr>  
       <th>07</th>
       <td> <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/07/Aula7.pdf"> <b>Exercise Class 2</b> </a></td>
-      <td><center> <b> - </b> </center> </td>
+      <td> <a href="https://youtu.be/48eciOrSEnI"> <center> <b> 1<sup>o</sup> </b> </center> </a> </td>
       <td><center> <b> - </b> </center> </td>
       <td><center> <b> - </b> </center> </td>
     </tr>
