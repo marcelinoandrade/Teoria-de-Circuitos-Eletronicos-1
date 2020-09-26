@@ -150,13 +150,11 @@ Estabelecer competências em grandezas elétricas e conceitos básicos de circui
 
 ### III) Aulas Extras
 
-<table border="1" class="dataframe">
-  <tbody>
-    <td> <a href="https://github.com/marcelinoandrade/Teoria-de-Circuitos-Eletronicos-1/blob/master/python/Tens%C3%A3o%20de%20Sa%C3%ADda%20e%20Potenci%C3%B4metro.ipynb" >
-        <p>Aula Extra 1 - Circuito com potenciômetro e análise computacional;</p></a> 
-    </td>    
-  </tbody>
-</table>
+<ul>
+    <li> <a href="https://github.com/marcelinoandrade/Teoria-de-Circuitos-Eletronicos-1/blob/master/python/Tens%C3%A3o%20de%20Sa%C3%ADda%20e%20Potenci%C3%B4metro.ipynb" >
+        <p>Aula Extra 1 - Circuito com potenciômetro e análise computacional;</p></a>  </li>
+</ul>
+
 
 ### IV) Bibliografia
 
