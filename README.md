@@ -28,7 +28,7 @@ Estabelecer competências em grandezas elétricas e conceitos básicos de circui
     <li> Diode Circuits; </li>    
 </ul>
 
-### II) Conteúdo Programático: Aulas & Vídeos
+### II) Aulas & Vídeos
 
 <table border="1" class="dataframe">
   <tbody>
