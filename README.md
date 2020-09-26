@@ -11,8 +11,22 @@ Estabelecer competências em grandezas elétricas e conceitos básicos de circui
     <li> <a href="https://github.com/marcelinoandrade/Teoria-de-Circuitos-Eletronicos-1/blob/master/Plano.pdf" ><b>Disciplina: Teoria de Circuitos Eletrônicos 1</b></a></li>
     <li> <a href="https://www.linkedin.com/in/marcelino-andrade-b164b369/" ><b>Prof. Marcelino Monteiro de Andrade Dr.</b></a></li>
 </ul>
+## I) Tópicos
 
-## Aulas & Vídeos
+<ul>
+    <li> Lei de Kirchhoff; </li>
+    <li> Methods of Analysis - Node Voltage; </li>
+    <li> Methods of Analysis - Mesh Current; </li>
+    <li> Circuit Theorems; </li>
+    <li> The Operational Amplifier; </li>
+    <li> Energy Storage Elements; </li>
+    <li> RL and RC Circuits; </li>
+    <li> Circuits with Two Energy Storage Elements; </li>
+    <li> The Laplace Transform; </li>  
+    <li> Sinusoidal Steady - State Analysis; </li>      
+    <li> Diode Circuits; </li>    
+</ul>
+## II) Conteúdo Programático: Aulas & Vídeos
 <table border="1" class="dataframe">
   <tbody>
     <tr>
