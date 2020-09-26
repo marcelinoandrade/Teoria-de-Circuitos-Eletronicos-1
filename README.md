@@ -149,11 +149,18 @@ Estabelecer competências em grandezas elétricas e conceitos básicos de circui
 </table>
 
 ### Bibliografia
-Diodes and Diode Circuits
 
+#### 1) Básica
 <ol type="1">
 <li>Introduction to Electric Circuits 9th Edition by James A. Svoboda, Richard C. Dorf</li>
 <li>Fundamentals of Electric Circuits (Alexander and Sadiku), 4th Edition</li>
+</ol>
+
+#### 2) Complementar
+<ol type="1">
+<li>James W. Nilsson e Susan A. Riedel. Circuitos Eletricos ´ , Prentice Hall, 2009.</li>
+<li>Adel S. Sedra e Kenneth C. Smith. Microeletronica ˆ , Prentice Hall, 2007.</li>
+<li>Albert Malvino e David J. Bates. Eletronica Volume 1 ˆ , , McGraw Hill, 2008.</li>    
 </ol>
 
 
