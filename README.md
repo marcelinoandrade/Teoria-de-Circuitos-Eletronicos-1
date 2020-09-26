@@ -69,7 +69,7 @@ Grandezas elétricas e conceitos básicos de circuitos elétricos; Leis de Kirch
       <td> <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/08/Aula8.pdf"> <b>Energy Storage Elements</b> </a></td>
       <td> <a href="https://www.youtube.com/watch?v=7luyb80Sgdo"> <center> <b> 1<sup>o</sup> </b> </center> </a> </td>
       <td> <a href="https://youtu.be/fWO-KFxCiHc"> <center> <b> 2<sup>o</sup> </b> </center> </a> </td>
-      <td><center> <b> - </b> </center> </td>
+      <td> <a href="https://www.youtube.com/watch?v=_Pc3c9V-_u4&feature=youtu.be"> <center> <b> 3<sup>o</sup> </b> </center> </a> </td>
     </tr>
     <tr>  
       <th>09</th>
