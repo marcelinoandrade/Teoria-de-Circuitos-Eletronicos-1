@@ -10,7 +10,7 @@ Estabelecer competências em grandezas elétricas e conceitos básicos de circui
     <li> <b>Campus UnB Gama</b> </li>
     <li> <a href="https://github.com/marcelinoandrade/Teoria-de-Circuitos-Eletronicos-1/blob/master/Plano.pdf" ><b>Plano de Ensino: Teoria de Circuitos Eletrônicos 1</b></a></li>
     <li> <a href="https://www.linkedin.com/in/marcelino-andrade-b164b369/" ><b>Prof. Marcelino Monteiro de Andrade Dr (andrade@unb.br).</b></a></li>
-    <li> <b>Pré-requisitos: Cálculo II</b>  </li>
+    <li> <b>Pré-requisitos:</b> Cálculo II  </li>
 </ul>
 
 ### I) Tópicos
