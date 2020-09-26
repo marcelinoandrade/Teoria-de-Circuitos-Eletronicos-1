@@ -157,7 +157,7 @@ Estabelecer competências em grandezas elétricas e conceitos básicos de circui
     <tr>
     <th>01</th>
     <td> <a href="https://github.com/marcelinoandrade/Teoria-de-Circuitos-Eletronicos-1/blob/master/python/Tens%C3%A3o%20de%20Sa%C3%ADda%20e%20Potenci%C3%B4metro.ipynb" ><p align="top">Aula Extra 1 - Análise de Circuitos Computacional de Circuitos com Potenciometro (EDA)</p></a>
-<p align="justify">
+<p align="justify"> Exemplo aplicando o python em circuito com potenciômetro.
  </p>   
     </td> 
     </tr>
