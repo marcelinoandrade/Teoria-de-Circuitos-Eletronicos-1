@@ -1,18 +1,18 @@
 <img src="fga.png" >
 
+## Teoria de Circuitos Eletrônicos 1
+<p align="justify">
+Estabelecer competências em grandezas elétricas e conceitos básicos de circuitos elétricos; Leis de Kirchhoff e circuitos resistivos, Métodos de resolução: análise nodal e análise de malhas; Técnicas de análise: superposição, transformação de fontes; equivalentes Thevenin e Norton; Elementos armazenadores de energia; Funções singulares: degrau unitário, rampa unitária, impulso; Transformada de Laplace: Análise de transitórios e em regime permanente senoidal; Diodo ideal e Amplificadores Operacionais; Circuitos de 1ª e 2ª ordens entre outros conteúdos da área de eletrônica.
+</p>
+
 <ul>
     <li> <b>Universidade de Brasília - UnB</b> </li>
     <li> <b>Campus UnB Gama</b> </li>
     <li> <a href="https://github.com/marcelinoandrade/Teoria-de-Circuitos-Eletronicos-1/blob/master/Plano.pdf" ><b>Disciplina: Teoria de Circuitos Eletrônicos 1</b></a></li>
     <li> <a href="https://www.linkedin.com/in/marcelino-andrade-b164b369/" ><b>Prof. Marcelino Monteiro de Andrade Dr.</b></a></li>
 </ul>
-    
-## Ementa
-<p align="justify">
-Grandezas elétricas e conceitos básicos de circuitos elétricos; Leis de Kirchhoff e circuitos resistivos, Métodos de resolução: análise nodal e análise de malhas; Técnicas de análise: superposição, transformação de fontes; equivalentes Thevenin e Norton; Elementos armazenadores de energia; Funções singulares: degrau unitário, rampa unitária, impulso; Transformada de Laplace: Análise de transitórios e em regime permanente senoidal; Diodo ideal e Amplificadores Operacionais; Circuitos de 1ª e 2ª ordens.
-</p>
 
-### Aulas & Vídeos
+## Aulas & Vídeos
 <table border="1" class="dataframe">
   <tbody>
     <tr>
