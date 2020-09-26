@@ -160,8 +160,6 @@ Estabelecer competências em grandezas elétricas e conceitos básicos de circui
 <p align="justify"> Exemplo aplicando o python em circuito com potenciômetro.
  </p>   
     </td> 
-    </tr>
-      <tr>
 </tbody>
 </table>
 
