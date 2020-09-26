@@ -153,9 +153,8 @@ Estabelecer competências em grandezas elétricas e conceitos básicos de circui
 <table border="1" class="dataframe">
   <tbody>
     <td> <a href="https://github.com/marcelinoandrade/Teoria-de-Circuitos-Eletronicos-1/blob/master/python/Tens%C3%A3o%20de%20Sa%C3%ADda%20e%20Potenci%C3%B4metro.ipynb" >
-        <p>Aula Extra 1 - Circuito com potenciômetro e análise computacional;</p></a>
-    <p align="justify">
-     Desenvolvimento de um exercício computacional para explorar os potenciais de uma linguagem de programação no aprendizado de circuitos elétrico. No caso, a atividade consiste em mostrar o comportamento da saída de um circuito para a variação da resistência de um potenciômetro.</p>       
+        <p>Aula Extra 1 - Circuito com potenciômetro e análise computacional;</p></a> 
+    </td>    
   </tbody>
 </table>
 
