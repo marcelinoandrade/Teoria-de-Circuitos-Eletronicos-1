@@ -148,7 +148,7 @@ Estabelecer competências em grandezas elétricas e conceitos básicos de circui
   </tbody>
 </table>
 
-### Bibliografia
+### III) Bibliografia
 
 #### 1) Básica
 <ol type="1">
