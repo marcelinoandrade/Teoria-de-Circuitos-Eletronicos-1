@@ -152,16 +152,27 @@ Estabelecer competências em grandezas elétricas e conceitos básicos de circui
 
 <table border="1" class="dataframe">
   <tbody>
-    <tr>
+          <tr>
     </tr>
     <tr>
     <th>01</th>
-    <td> <a href="https://github.com/marcelinoandrade/Teoria-de-Circuitos-Eletronicos-1/blob/master/python/Tens%C3%A3o%20de%20Sa%C3%ADda%20e%20Potenci%C3%B4metro.ipynb" ><p align="top">Aula Extra 1 - Análise de Circuitos Computacional de Circuitos com Potenciometro (EDA)</p></a>
-<p align="justify"> Exemplo aplicando o python em circuito com potenciômetro.
- </p>   
+    <td> <a href="https://github.com/marcelinoandrade/Teoria-de-Circuitos-Eletronicos-1/blob/master/python/Tens%C3%A3o%20de%20Sa%C3%ADda%20e%20Potenci%C3%B4metro.ipynb" ><p align="top">Aula Extra 1 - Circuito com potenciômetro e análise computaciona;</p></a>
     </td> 
+    </tr>
+      <tr>
+    <th>02</th>
+    <td> <a href="https://github.com/marcelinoandrade/Teoria-de-Circuitos-Eletronicos-1/blob/master/python/Tens%C3%A3o%20de%20Sa%C3%ADda%20e%20Potenci%C3%B4metro.ipynb" ><p align="top">Aula Extra 2 - Introdução IA Investimento</p></a>
+    </td> 
+    </tr>    
+   <tr>        
+      
 </tbody>
 </table>
+
+
+
+
+
 
 ### IV) Bibliografia
 
