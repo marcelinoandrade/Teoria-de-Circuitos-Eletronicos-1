@@ -148,15 +148,32 @@ Estabelecer competências em grandezas elétricas e conceitos básicos de circui
   </tbody>
 </table>
 
-### III) Bibliografia
+### III) Aulas Extras
 
-#### 1) Básica
+<table border="1" class="dataframe">
+  <tbody>
+    <tr>
+    </tr>
+    <tr>
+    <th>01</th>
+    <td> <a href="https://github.com/marcelinoandrade/Teoria-de-Circuitos-Eletronicos-1/blob/master/python/Tens%C3%A3o%20de%20Sa%C3%ADda%20e%20Potenci%C3%B4metro.ipynb" ><p align="top">Aula Extra 1 - Análise de Circuitos Computacional de Circuitos com Potenciometro (EDA)</p></a>
+<p align="justify">
+ </p>   
+    </td> 
+    </tr>
+      <tr>
+</tbody>
+</table>
+
+### IV) Bibliografia
+
+#### Básica
 <ol type="1">
 <li>Introduction to Electric Circuits 9th Edition by James A. Svoboda, Richard C. Dorf</li>
 <li>Fundamentals of Electric Circuits (Alexander and Sadiku), 4th Edition</li>
 </ol>
 
-#### 2) Complementar
+#### Complementar
 <ol type="1">
 <li>James W. Nilsson e Susan A. Riedel. Circuitos Eletricos, Prentice Hall, 2009.</li>
 <li>Adel S. Sedra e Kenneth C. Smith. Microeletronica, Prentice Hall, 2007.</li>
