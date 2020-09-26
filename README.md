@@ -158,9 +158,9 @@ Estabelecer competências em grandezas elétricas e conceitos básicos de circui
 
 #### 2) Complementar
 <ol type="1">
-<li>James W. Nilsson e Susan A. Riedel. Circuitos Eletricos ´ , Prentice Hall, 2009.</li>
-<li>Adel S. Sedra e Kenneth C. Smith. Microeletronica ˆ , Prentice Hall, 2007.</li>
-<li>Albert Malvino e David J. Bates. Eletronica Volume 1 ˆ , , McGraw Hill, 2008.</li>    
+<li>James W. Nilsson e Susan A. Riedel. Circuitos Eletricos, Prentice Hall, 2009.</li>
+<li>Adel S. Sedra e Kenneth C. Smith. Microeletronica, Prentice Hall, 2007.</li>
+<li>Albert Malvino e David J. Bates. Eletronica Volume 1, McGraw Hill, 2008.</li>    
 </ol>
 
 
