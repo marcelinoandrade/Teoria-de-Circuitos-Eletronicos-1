@@ -10,6 +10,7 @@ Estabelecer competências em grandezas elétricas e conceitos básicos de circui
     <li> <b>Campus UnB Gama</b> </li>
     <li> <a href="https://github.com/marcelinoandrade/Teoria-de-Circuitos-Eletronicos-1/blob/master/Plano.pdf" ><b>Disciplina: Teoria de Circuitos Eletrônicos 1</b></a></li>
     <li> <a href="https://www.linkedin.com/in/marcelino-andrade-b164b369/" ><b>Prof. Marcelino Monteiro de Andrade Dr (andrade@unb.br).</b></a></li>
+    <li> <b>Pré-requisitos: Cálculo II</b>  </li>
 </ul>
 
 ### I) Tópicos
@@ -137,11 +138,18 @@ Estabelecer competências em grandezas elétricas e conceitos básicos de circui
       <td><center> <b> - </b> </center> </td>
       <td><center> <b> - </b> </center> </td>
     </tr>
+    <tr>  
+      <th>16</th>
+      <td> <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/15/Aula15.pdf"> <b>Diodes and Diode Circuits</b> </a></td>
+      <td><center> <b> - </b> </center> </td>
+      <td><center> <b> - </b> </center> </td>
+      <td><center> <b> - </b> </center> </td>
+    </tr>       
   </tbody>
 </table>
 
 ### Bibliografia
-
+Diodes and Diode Circuits
 
 <ol type="1">
 <li>Introduction to Electric Circuits 9th Edition by James A. Svoboda, Richard C. Dorf</li>
