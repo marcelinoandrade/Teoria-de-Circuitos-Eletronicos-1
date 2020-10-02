@@ -99,7 +99,7 @@ Estabelecer competências em grandezas elétricas e conceitos básicos de circui
     <tr>  
       <th>10</th>
       <td> <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/10/Aula10.pdf"> <b>RL and RC Circuits</b> </a></td>
-      <td><center> <b> - </b> </center> </td>
+      <td> <a href="https://youtu.be/Kml4UV2xQdE"> <center> <b> 1<sup>o</sup> </b> </center> </a> </td>
       <td><center> <b> - </b> </center> </td>
       <td><center> <b> - </b> </center> </td>
     </tr>
