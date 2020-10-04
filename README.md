@@ -58,8 +58,8 @@ Estabelecer competências em grandezas elétricas e conceitos básicos de circui
       <th>04</th>
       <td> <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/04/Aula4.pdf"> <b>Exercise Class 1</b> </a></td>
       <td> <a href="https://www.youtube.com/watch?v=9WGzGWdmZcs"> <center> <b> 1<sup>o</sup> </b> </center> </a> </td>
-      <td><center> <b> x </b></center> </td>
-      <td><center> <b> x </b></center> </td>
+      <td><center> <b> - </b></center> </td>
+      <td><center> <b> - </b></center> </td>
     </tr>
     <tr>  
       <th>05</th>
@@ -79,8 +79,8 @@ Estabelecer competências em grandezas elétricas e conceitos básicos de circui
       <th>07</th>
       <td> <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/07/Aula7.pdf"> <b>Exercise Class 2</b> </a></td>
       <td> <a href="https://youtu.be/48eciOrSEnI"> <center> <b> 1<sup>o</sup> </b> </center> </a> </td>
-      <td><center> <b> x </b> </center> </td>
-      <td><center> <b> x </b> </center> </td>
+      <td><center> <b> - </b> </center> </td>
+      <td><center> <b> - </b> </center> </td>
     </tr>
     <tr>  
       <th>08</th>
@@ -93,57 +93,57 @@ Estabelecer competências em grandezas elétricas e conceitos básicos de circui
       <th>09</th>
       <td> <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/09/Aula9.pdf"> <b>Exercise Class 3</b> </a></td>
       <td> <a href="https://www.youtube.com/watch?v=nU0xphvWdUo&feature=youtu.be"> <center> <b> 1<sup>o</sup> </b> </center> </a> </td>
-      <td><center> <b> x </b> </center> </td>
-      <td><center> <b> x </b> </center> </td>
+      <td><center> <b> - </b> </center> </td>
+      <td><center> <b> - </b> </center> </td>
     </tr>
     <tr>  
       <th>10</th>
       <td> <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/10/Aula10.pdf"> <b>RL and RC Circuits</b> </a></td>
       <td> <a href="https://youtu.be/Kml4UV2xQdE"> <center> <b> 1<sup>o</sup> </b> </center> </a> </td>
       <td><center> <b> - </b> </center> </td>
-      <td><center> <b> - </b> </center> </td>
+      <td><center> <b> x </b> </center> </td>
     </tr>
     <tr>  
       <th>11</th>
       <td> <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/11/Aula11.pdf"> <b>Circuits with Two Energy Storage Elements</b> </a></td>
-      <td><center> <b> - </b> </center> </td>
-      <td><center> <b> - </b> </center> </td>
-      <td><center> <b> - </b> </center> </td>
+      <td><center> <b> x </b> </center> </td>
+      <td><center> <b> x </b> </center> </td>
+      <td><center> <b> x </b> </center> </td>
     </tr>
     <tr>  
       <th>12</th>
       <td> <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/12/Aula12.pdf"> <b>The Laplace Transform</b> </a></td>
-      <td><center> <b> - </b> </center> </td>
-      <td><center> <b> - </b> </center> </td>
+      <td><center> <b> x </b> </center> </td>
+      <td><center> <b> x </b> </center> </td>
       <td><center> <b> - </b> </center> </td>
     </tr>
     <tr>  
       <th>13</th>
       <td> <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/13/Aula13.pdf"> <b>Exercise Class 4</b> </a></td>
-      <td><center> <b> - </b> </center> </td>
+      <td><center> <b> x </b> </center> </td>
       <td><center> <b> - </b> </center> </td>
       <td><center> <b> - </b> </center> </td>
     </tr>
     <tr>  
       <th>14</th>
       <td> <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/14/Aula14.pdf"> <b>Sinusoidal Steady - State Analysis</b> </a></td>
-      <td><center> <b> - </b> </center> </td>
-      <td><center> <b> - </b> </center> </td>
-      <td><center> <b> - </b> </center> </td>
+      <td><center> <b> x </b> </center> </td>
+      <td><center> <b> x </b> </center> </td>
+      <td><center> <b> x </b> </center> </td>
     </tr>
     <tr>  
       <th>15</th>
       <td> <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/15/Aula15.pdf"> <b>Exercise Class 5</b> </a></td>
-      <td><center> <b> - </b> </center> </td>
+      <td><center> <b> x </b> </center> </td>
       <td><center> <b> - </b> </center> </td>
       <td><center> <b> - </b> </center> </td>
     </tr>
     <tr>  
       <th>16</th>
       <td> <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/15/Aula15.pdf"> <b>Diodes and Diode Circuits</b> </a></td>
-      <td><center> <b> - </b> </center> </td>
-      <td><center> <b> - </b> </center> </td>
-      <td><center> <b> - </b> </center> </td>
+      <td><center> <b> x </b> </center> </td>
+      <td><center> <b> x </b> </center> </td>
+      <td><center> <b> x </b> </center> </td>
     </tr>       
   </tbody>
 </table>
