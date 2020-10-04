@@ -58,8 +58,8 @@ Estabelecer competências em grandezas elétricas e conceitos básicos de circui
       <th>04</th>
       <td> <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/04/Aula4.pdf"> <b>Exercise Class 1</b> </a></td>
       <td> <a href="https://www.youtube.com/watch?v=9WGzGWdmZcs"> <center> <b> 1<sup>o</sup> </b> </center> </a> </td>
-      <td><center> <b> - </b></center> </td>
-      <td><center> <b> - </b></center> </td>
+      <td><center> <b> x </b></center> </td>
+      <td><center> <b> x </b></center> </td>
     </tr>
     <tr>  
       <th>05</th>
@@ -79,8 +79,8 @@ Estabelecer competências em grandezas elétricas e conceitos básicos de circui
       <th>07</th>
       <td> <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/07/Aula7.pdf"> <b>Exercise Class 2</b> </a></td>
       <td> <a href="https://youtu.be/48eciOrSEnI"> <center> <b> 1<sup>o</sup> </b> </center> </a> </td>
-      <td><center> <b> - </b> </center> </td>
-      <td><center> <b> - </b> </center> </td>
+      <td><center> <b> x </b> </center> </td>
+      <td><center> <b> x </b> </center> </td>
     </tr>
     <tr>  
       <th>08</th>
@@ -93,8 +93,8 @@ Estabelecer competências em grandezas elétricas e conceitos básicos de circui
       <th>09</th>
       <td> <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/09/Aula9.pdf"> <b>Exercise Class 3</b> </a></td>
       <td> <a href="https://www.youtube.com/watch?v=nU0xphvWdUo&feature=youtu.be"> <center> <b> 1<sup>o</sup> </b> </center> </a> </td>
-      <td><center> <b> - </b> </center> </td>
-      <td><center> <b> - </b> </center> </td>
+      <td><center> <b> x </b> </center> </td>
+      <td><center> <b> x </b> </center> </td>
     </tr>
     <tr>  
       <th>10</th>
