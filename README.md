@@ -107,7 +107,7 @@ Estabelecer competências em grandezas elétricas e conceitos básicos de circui
       <th>11</th>
       <td> <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/11/Aula11.pdf"> <b>Circuits with Two Energy Storage Elements</b> </a></td>
       <td> <a href="https://www.youtube.com/watch?v=lCg5Ap1r8ig&feature=youtu.be"> <center> <b> 1<sup>o</sup> </b> </center> </a> </td>
-      <td><center> <b> x </b> </center> </td>
+      <td> <a href="https://www.youtube.com/watch?v=o2MDMie3vrc&feature=youtu.be"> <center> <b> 2<sup>o</sup> </b> </center> </a> </td>
       <td><center> <b> - </b> </center> </td>
     </tr>
     <tr>  
