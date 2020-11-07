@@ -115,7 +115,7 @@ Estabelecer competências em grandezas elétricas e conceitos básicos de circui
       <td> <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/12/Aula12.pdf"> <b>The Laplace Transform</b> </a></td>
       <td> <a href="https://www.youtube.com/watch?v=w_L8Ml_b-ac&feature=youtu.be"> <center> <b> 1<sup>o</sup> </b> </center> </a> </td>
       <td> <a href="https://www.youtube.com/watch?v=ETMk52mk4JE"> <center> <b> 2<sup>o</sup> </b> </center> </a> </td>
-      <td><center> <b> x </b> </center> </td>
+      <td> <a href="https://www.youtube.com/watch?v=gIIYz-2-8nk"> <center> <b> 3<sup>o</sup> </b> </center> </a> </td>
     </tr>
     <tr>  
       <th>13</th>
