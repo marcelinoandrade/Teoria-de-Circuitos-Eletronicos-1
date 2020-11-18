@@ -128,7 +128,7 @@ Estabelecer competências em grandezas elétricas e conceitos básicos de circui
       <th>14</th>
       <td> <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/14/Aula14.pdf"> <b>Sinusoidal Steady - State Analysis</b> </a></td>
       <td> <a href="https://www.youtube.com/watch?v=g-RtXd1vu-k&feature=youtu.be"> <center> <b> 1<sup>o</sup> </b> </center> </a> </td>
-      <td><center> <b> x </b> </center> </td>
+      <td> <a href="https://www.youtube.com/watch?v=T2u39nEApyU"> <center> <b> 2<sup>o</sup> </b> </center> </a> </td>
       <td><center> <b> x </b> </center> </td>
     </tr>
     <tr>  
