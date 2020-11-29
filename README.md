@@ -92,71 +92,78 @@ Estabelecer competências em grandezas elétricas e conceitos básicos de circui
     <tr>  
       <th>09</th>
       <td> <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/09/Aula9.pdf"> <b>Exercise Class 3</b> </a></td>
-      <td><center> <b> - </b> </center> </td>
+      <td> <a href="https://www.youtube.com/watch?v=nU0xphvWdUo&feature=youtu.be"> <center> <b> 1<sup>o</sup> </b> </center> </a> </td>
       <td><center> <b> - </b> </center> </td>
       <td><center> <b> - </b> </center> </td>
     </tr>
     <tr>  
-      <th>10</th>
+      <th>10</th> 
       <td> <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/10/Aula10.pdf"> <b>RL and RC Circuits</b> </a></td>
-      <td><center> <b> - </b> </center> </td>
-      <td><center> <b> - </b> </center> </td>
+      <td> <a href="https://youtu.be/Kml4UV2xQdE"> <center> <b> 1<sup>o</sup> </b> </center> </a> </td>
+      <td> <a href="https://www.youtube.com/watch?v=WJteaA9q4kY"> <center> <b> 2<sup>o</sup> </b> </center> </a> </td>
       <td><center> <b> - </b> </center> </td>
     </tr>
     <tr>  
       <th>11</th>
       <td> <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/11/Aula11.pdf"> <b>Circuits with Two Energy Storage Elements</b> </a></td>
-      <td><center> <b> - </b> </center> </td>
-      <td><center> <b> - </b> </center> </td>
+      <td> <a href="https://www.youtube.com/watch?v=lCg5Ap1r8ig&feature=youtu.be"> <center> <b> 1<sup>o</sup> </b> </center> </a> </td>
+      <td> <a href="https://www.youtube.com/watch?v=o2MDMie3vrc&feature=youtu.be"> <center> <b> 2<sup>o</sup> </b> </center> </a> </td>
       <td><center> <b> - </b> </center> </td>
     </tr>
     <tr>  
-      <th>12</th>
+      <th>12</th> 
       <td> <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/12/Aula12.pdf"> <b>The Laplace Transform</b> </a></td>
-      <td><center> <b> - </b> </center> </td>
-      <td><center> <b> - </b> </center> </td>
-      <td><center> <b> - </b> </center> </td>
+      <td> <a href="https://www.youtube.com/watch?v=w_L8Ml_b-ac&feature=youtu.be"> <center> <b> 1<sup>o</sup> </b> </center> </a> </td>
+      <td> <a href="https://www.youtube.com/watch?v=ETMk52mk4JE"> <center> <b> 2<sup>o</sup> </b> </center> </a> </td>
+      <td> <a href="https://www.youtube.com/watch?v=gIIYz-2-8nk"> <center> <b> 3<sup>o</sup> </b> </center> </a> </td>
     </tr>
     <tr>  
       <th>13</th>
       <td> <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/13/Aula13.pdf"> <b>Exercise Class 4</b> </a></td>
-      <td><center> <b> - </b> </center> </td>
+      <td><center> <b> x </b> </center> </td>
       <td><center> <b> - </b> </center> </td>
       <td><center> <b> - </b> </center> </td>
     </tr>
     <tr>  
       <th>14</th>
       <td> <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/14/Aula14.pdf"> <b>Sinusoidal Steady - State Analysis</b> </a></td>
-      <td><center> <b> - </b> </center> </td>
-      <td><center> <b> - </b> </center> </td>
-      <td><center> <b> - </b> </center> </td>
+      <td> <a href="https://www.youtube.com/watch?v=g-RtXd1vu-k&feature=youtu.be"> <center> <b> 1<sup>o</sup> </b> </center> </a> </td>
+      <td> <a href="https://www.youtube.com/watch?v=T2u39nEApyU"> <center> <b> 2<sup>o</sup> </b> </center> </a> </td>
+      <td> <a href="https://www.youtube.com/watch?v=sMrRrTs8Pts"> <center> <b> 3<sup>o</sup> </b> </center> </a> </td>
     </tr>
     <tr>  
       <th>15</th>
       <td> <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/15/Aula15.pdf"> <b>Exercise Class 5</b> </a></td>
-      <td><center> <b> - </b> </center> </td>
+      <td><center> <b> x </b> </center> </td>
       <td><center> <b> - </b> </center> </td>
       <td><center> <b> - </b> </center> </td>
     </tr>
     <tr>  
       <th>16</th>
       <td> <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/15/Aula15.pdf"> <b>Diodes and Diode Circuits</b> </a></td>
-      <td><center> <b> - </b> </center> </td>
-      <td><center> <b> - </b> </center> </td>
-      <td><center> <b> - </b> </center> </td>
+      <td> <a href="https://www.youtube.com/watch?v=YKIlCvV8ueY&feature=youtu.be"> <center> <b> 1<sup>o</sup> </b> </center> </a> </td>
+      <td><center> <b> x </b> </center> </td>
+      <td><center> <b> x </b> </center> </td>
     </tr>       
   </tbody>
 </table>
 
-### III) Bibliografia
+### III) Aulas Extras
 
-#### 1) Básica
+<ol type="1">
+<li><a href="https://github.com/marcelinoandrade/Teoria-de-Circuitos-Eletronicos-1/blob/master/python/Tens%C3%A3o%20de%20Sa%C3%ADda%20e%20Potenci%C3%B4metro.ipynb" >
+        <p>Aula Extra 1 - Circuito com potenciômetro e análise computacional;</p></a></li>
+</ol>
+
+### IV) Bibliografia
+
+#### Básica
 <ol type="1">
 <li>Introduction to Electric Circuits 9th Edition by James A. Svoboda, Richard C. Dorf</li>
 <li>Fundamentals of Electric Circuits (Alexander and Sadiku), 4th Edition</li>
 </ol>
 
-#### 2) Complementar
+#### Complementar
 <ol type="1">
 <li>James W. Nilsson e Susan A. Riedel. Circuitos Eletricos, Prentice Hall, 2009.</li>
 <li>Adel S. Sedra e Kenneth C. Smith. Microeletronica, Prentice Hall, 2007.</li>
