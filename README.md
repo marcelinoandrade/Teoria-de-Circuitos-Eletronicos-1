@@ -140,7 +140,7 @@ Estabelecer competências em grandezas elétricas e conceitos básicos de circui
     </tr>
     <tr>  
       <th>16</th>
-      <td> <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/15/Aula15.pdf"> <b>Diodes and Diode Circuits</b> </a></td>
+      <td> <a href="https://github.com/marcelinoandrade/Teoria-de-Circuitos-Eletronicos-1/blob/master/16/diodo1.pdf"> <b>Diodes and Diode Circuits</b> </a></td>
       <td> <a href="https://www.youtube.com/watch?v=YKIlCvV8ueY&feature=youtu.be"> <center> <b> 1<sup>o</sup> </b> </center> </a> </td>
       <td><center> <b> x </b> </center> </td>
       <td><center> <b> x </b> </center> </td>
