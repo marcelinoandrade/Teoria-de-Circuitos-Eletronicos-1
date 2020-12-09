@@ -120,7 +120,7 @@ Estabelecer competências em grandezas elétricas e conceitos básicos de circui
     <tr>  
       <th>13</th>
       <td> <a href="https://github.com/marcelinoandrade/Circuitos-Eletricos-1/blob/master/13/Aula13.pdf"> <b>Exercise Class 4</b> </a></td>
-      <td><center> <b> x </b> </center> </td>
+      <td> <a href="https://www.youtube.com/watch?v=P2EHOU2bUqI&feature=youtu.be"> <center> <b> 1<sup>o</sup> </b> </center> </a> </td>
       <td><center> <b> - </b> </center> </td>
       <td><center> <b> - </b> </center> </td>
     </tr>
